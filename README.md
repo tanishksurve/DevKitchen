@@ -19,15 +19,7 @@ Each mini project lives in its own folder inside [`projects/`](projects/).
 ---
 
 ## 📂 Project Structure
-projects/
-├── project-name-1/
-│ ├── index.html
-│ ├── style.css
-│ ├── script.js
-│ └── README.md
-├── project-name-2/
-│ └── ...
-└── ...
+projects/ <Your Project folder>
 
 
 ---
