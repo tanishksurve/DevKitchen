@@ -19,7 +19,7 @@ Each mini project lives in its own folder inside [`projects/`](projects/).
 ---
 
 ## 📂 Project Structure
-projects/ <Your Project folder>
+projects/ (your Project folder)
 
 
 ---
@@ -65,4 +65,4 @@ Optional frameworks/libraries (React, Vue, Svelte, etc.)
 
 Assets (images, fonts) must stay inside your project folder.
 
-##⭐ Don’t forget to star this repo if you like it!
+## ⭐ Don’t forget to star this repo if you like it!
